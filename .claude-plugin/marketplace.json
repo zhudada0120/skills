@@ -1,11 +1,11 @@
 {
-  "name": "zhudada-skills",
+  "name": "ascend-agent-skills",
   "owner": {
     "name": "zhudada0120",
     "email": "zhuguandada@outlook.com"
   },
   "metadata": {
-    "description": "Zhudada's custom skills for NPU development and more",
+    "description": "Ascend Agent's custom skills for NPU development and more",
     "version": "1.0.0"
   },
   "plugins": [
