@@ -1,0 +1,22 @@
+{
+  "name": "zhudada-skills",
+  "owner": {
+    "name": "zhudada0120",
+    "email": "zhuguandada@outlook.com"
+  },
+  "metadata": {
+    "description": "Zhudada's custom skills for NPU development and more",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ta-kernel-butler",
+      "description": "Ascend NPU kernel development assistant - Provides expert guidance on Ascend NPU hardware architecture, triton-ascend kernel development, and GPU to NPU migration",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/ta-kernel-butler"
+      ]
+    }
+  ]
+}
